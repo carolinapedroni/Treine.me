@@ -35,11 +35,9 @@ O projeto Treine.me é um site para criar treinos customizados para os usuários
 
 - [Acesse o projeto finalizado, online](https://carolinapedroni.github.io/Treine.me/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/9e8oZ7kkjIt5rkNgz9MPtk/Explorer---Projeto-02/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/h6xY03ZuLSlhyHbUCYgepA/Explorer---Projeto-02-(Copy)?type=design&node-id=0%3A1&mode=design&t=FeSQbHjgv0gR7tkC-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
